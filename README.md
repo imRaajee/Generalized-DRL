@@ -17,7 +17,7 @@ The agent interacts with a simulated environment to maximize the ratio of heat t
 The heat source varies across episodes, making the agent generalize across q* ∈ [0, 1].
 
 ## 📜 Citation
-If you find this useful, please cite the related paper.
+If you find this useful, please cite the related paper (link or citation to be added later).
 
 ## 📎 License
 MIT License.
