@@ -6,7 +6,8 @@ This repository contains **the source code for our DRL-based framework designed 
 We provide two versions of the reinforcement learning agent:
 
 - `/Simple-Policy/`: A baseline policy-gradient agent for initial performance benchmarking.
--`/Upgraded/`: An improved PPO-based agent with curriculum learning, q-bathces, surrogate models, and generalization across fluids and heat fluxes.
+
+- `/Upgraded/`: An improved PPO-based agent with curriculum learning, q-bathces, surrogate models, and generalization across fluids and heat fluxes.
 
 ## ⚙️ Problem Description
 The agent interacts with a simulated environment to maximize the ratio of heat transfer to pressure drop (Nu / ΔP). Actions include:
