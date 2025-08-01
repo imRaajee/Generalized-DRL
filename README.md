@@ -1,4 +1,4 @@
-# GDRL: Geometry and Flow Optimization with DRL
+# GDRL: A Generalized DRL method for a MCHS Optimization
 
 This repository contains **the source code for our DRL-based framework designed to optimize heat sink geometry, flow parameters (Reynolds number), and material selection under varying thermal loads**.
 
